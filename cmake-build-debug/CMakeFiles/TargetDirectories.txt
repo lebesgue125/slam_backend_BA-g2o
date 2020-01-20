@@ -1,0 +1,5 @@
+/home/lebesgue/CLionProjects/assign07/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lebesgue/CLionProjects/assign07/cmake-build-debug/CMakeFiles/directBA.dir
+/home/lebesgue/CLionProjects/assign07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lebesgue/CLionProjects/assign07/cmake-build-debug/CMakeFiles/bal_common.dir
+/home/lebesgue/CLionProjects/assign07/cmake-build-debug/CMakeFiles/bundle_adjustment_g2o.dir

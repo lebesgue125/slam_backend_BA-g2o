@@ -1,0 +1,9 @@
+/home/lebesgue/Clion/clion-2019.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lebesgue/CLionProjects/assign07
+statusPangolin_INCLUDE_DIRS-------/home/lebesgue/Downloads/Pangolin/include/home/lebesgue/Downloads/Pangolin/build/src/include/usr/include/usr/include/usr/include
+statusEIGEN3_INCLUDE_DIR--------/usr/include/eigen3
+statusSophus_INCLUDE_DIRS-------
+statusg2o-------
+-- Configuring done
+WARNING: Target "directBA" requests linking to directory "/usr/local/boost/lib".  Targets may link only to libraries.  CMake is dropping the item.
+-- Generating done
+-- Build files have been written to: /home/lebesgue/CLionProjects/assign07/cmake-build-debug
